@@ -15,3 +15,13 @@
 ![WhatsApp Image 2024-09-07 at 20 31 52_2aefd642](https://github.com/user-attachments/assets/493d3d5b-e44e-48cb-ba62-b7d4fb4678c6)
 
 ![WhatsApp Image 2024-09-07 at 20 31 53_68a54851](https://github.com/user-attachments/assets/30d66c72-f447-45d4-891c-7a9aece7f026)
+
+
+## Running the app on your device.
+
+    Create a new flutter project.
+    replace the lib folder with the lib folder provided here.
+    replace the pubspec.yaml file with the one provided here.
+    Start Debugging the main.dart file.
+    The App will start on the selected device.
+
