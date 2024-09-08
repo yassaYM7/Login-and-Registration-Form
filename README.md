@@ -1,27 +1,16 @@
-# Login/Register Form (Bottom Sheet)
-  A customizable login and register form implemented as a bottom sheet in Flutter.
-## Features
-- Login and register functionality in a single bottom sheet
-- Form validation for email and password fields
-- Password visibility toggle
-- Easy to use and customize
+# butomsheet
 
-## APP Preview
-![GIF_20240907_202110_839](https://github.com/user-attachments/assets/d1dc6fb0-ac85-4c59-ab48-6ecca90449a8)
+A new Flutter project.
 
+## Getting Started
 
-![WhatsApp Image 2024-09-07 at 20 31 53_6d735f78](https://github.com/user-attachments/assets/77158300-49af-4776-956c-68144cf1e03f)
+This project is a starting point for a Flutter application.
 
-![WhatsApp Image 2024-09-07 at 20 31 52_2aefd642](https://github.com/user-attachments/assets/493d3d5b-e44e-48cb-ba62-b7d4fb4678c6)
+A few resources to get you started if this is your first Flutter project:
 
-![WhatsApp Image 2024-09-07 at 20 31 53_68a54851](https://github.com/user-attachments/assets/30d66c72-f447-45d4-891c-7a9aece7f026)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-## Running the app on your device.
-
-    Create a new flutter project.
-    replace the lib folder with the lib folder provided here.
-    replace the pubspec.yaml file with the one provided here.
-    Start Debugging the main.dart file.
-    The App will start on the selected device.
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
