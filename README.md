@@ -4,10 +4,10 @@
 
 # Features
 
-    - Login and register functionality in a single bottom sheet
-    - Form validation for email and password fields
-    - Password visibility toggle
-    - Easy to use and customize
+    1. Login and register functionality in a single bottom sheet
+    2. Form validation for email and password fields
+    3. Password visibility toggle
+    4. Easy to use and customize
 
 # APP Preview
 ## 1. Demo GIF
