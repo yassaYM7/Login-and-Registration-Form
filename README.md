@@ -10,15 +10,16 @@
     - Easy to use and customize
 
 # APP Preview
-## Demo GIF
+## 1.Demo GIF
+####  Check out this quick demo of the app in action:
 __________________
-#### - Check out this quick demo of the app in action:
+
 ![GIF_20240907_202110_839](https://github.com/user-attachments/assets/cb55e55b-819f-44ce-b02d-06e331819c1d)
 
-___________________
-## Screenshots
+## 2.Screenshots
 
-#### - Here are some screenshots of the app:
+#### Here are some screenshots of the app:
+__________________
 
 ![WhatsApp Image 2024-09-13 at 01 50 18_4f661c6b](https://github.com/user-attachments/assets/a7ff37a2-274a-4a6e-8306-cb05db3434ad)
 
