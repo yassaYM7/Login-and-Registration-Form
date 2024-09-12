@@ -10,13 +10,13 @@
     - Easy to use and customize
 
 # APP Preview
-### Demo GIF
+## Demo GIF
 __________________
 #### - Check out this quick demo of the app in action:
 ![GIF_20240907_202110_839](https://github.com/user-attachments/assets/cb55e55b-819f-44ce-b02d-06e331819c1d)
 
 ___________________
-### Screenshots
+## Screenshots
 
 #### - Here are some screenshots of the app:
 
